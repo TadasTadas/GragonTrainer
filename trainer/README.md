@@ -4,7 +4,7 @@ Dragons game backend java implementation
 This application is solving a problem presented on https://www.dragonsofmugloar.com/
 
 ## Implementation ##
-Application is implemented using springboot. It has one main controller:
+Application is implemented using springboot. It has one main api:
 /playGame - run game and return current game score.
 
 ## Game logic ##
